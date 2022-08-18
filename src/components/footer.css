@@ -1,0 +1,14 @@
+.footer{
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 1.2rem;
+    border: solid 2px yellowgreen;
+    padding: 1rem 1rem;
+    color: aliceblue;
+    margin-top: 10.5rem;
+    position: static;
+   background-color: RGB(35, 34, 52);
+}
+
